@@ -1,3 +1,14 @@
 body{
 	background-color: #E76453;
 }
+
+.cool {
+	width: 100px;
+	height: 100px;
+	background-color: #8494CC;
+	transition: background-color 1s;
+}
+
+.cool.change {
+	background-color: #EEC95B;
+}
